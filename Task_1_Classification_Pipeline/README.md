@@ -59,5 +59,5 @@ The main evaluation models use all four numerical features.
 4. Run the notebook cells in order.
 
 ## Project Status
-Implemented and evaluated locally. Final verification and GitHub
-submission remain pending.
+
+Notebook implemented, evaluated, and committed to GitHub.
